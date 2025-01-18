@@ -22,26 +22,22 @@ I'm a passionate **IT Developer** from Tunisia, focused on building robust and s
 ---
 
 ## 🛠 Projects
-- 🌐 **[Book Social Network](https://github.com/your-username/book-social-network):**  
+- 🌐 **[Book Social Network](https://github.com/dachraoui-ui/book-social-network):**  
   A full-stack application built with Spring Boot, Angular, and Docker to connect book enthusiasts.
 
-- 🛒 **[E-commerce App](https://github.com/your-username/ecommerce):**  
-  Simple electronics store built with **Spring Boot**, **Thymeleaf**, and **MySQL**.
-
-- 🤖 **[Football Face Recognition AI](https://github.com/your-username/football-ai):**  
+- 🤖 **[Football Face Recognition AI](https://github.com/dachraoui-ui/face_recognition_with_gui):**  
   Uses Python and Machine Learning to recognize football players' faces.
 
 ---
 
 ## 📚 Learning & Goals
-- 🌱 Currently learning **Microservices with Spring Boot**.
+- 🌱 Currently learning **Microservices with Spring Boot and docker**.
 - 🏆 Aiming to build a **complete SaaS product** from scratch.
 
 ---
 
 ## 🧑‍💻 Let's Connect!
-- 📫 **Email**: your-email@example.com  
-- 🌍 **Portfolio**: [your-portfolio-link](https://your-portfolio-link)
+- 📫 **Email**: dachraouia193@gmail.com  
 
 ---
 
