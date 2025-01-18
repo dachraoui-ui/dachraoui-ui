@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there, I'm Dachraoui 👋
+# Hi there, I'm Ahmed 👋
 
 I'm a passionate **IT Developer** from Tunisia, focused on building robust and scalable applications. I'm on a mission to master programming, create innovative projects, and grow stronger both in tech and in fitness!
 
