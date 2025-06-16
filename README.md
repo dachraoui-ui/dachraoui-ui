@@ -26,7 +26,9 @@ I'm a passionate **IT Developer** from Tunisia, focused on building robust and s
 
 - 🤖 **[Football Face Recognition AI](https://github.com/dachraoui-ui/face_recognition_with_gui):**  
   Uses Python and Machine Learning to recognize football players' faces.
-
+  
+- 🚀 **[RH-APP](https://github.com/dachraoui-ui/rh-app):**  
+  an RH app backend with springboot and keycloak integration technologies 
 ---
 
 ## 📚 Learning & Goals
