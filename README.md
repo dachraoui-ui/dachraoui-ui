@@ -114,24 +114,7 @@
 
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dachraoui-ui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dachraoui-ui&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dachraoui-ui&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🎯 Current Focus & Learning Path
 
@@ -180,7 +163,7 @@ graph LR
 
 **🌟 Always open to interesting conversations and collaboration opportunities!**
 
-<img src="https://raw.githubusercontent.com/dachraoui-ui/dachraoui-ui/output/snake.svg" alt="Snake animation" />
+
 
 </div>
 
